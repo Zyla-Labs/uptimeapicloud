@@ -29,4 +29,4 @@ Key Features:
   - In addition to these powerful features, UptimeAPI provides a comprehensive log history of up and down monitors, enabling you to track performance over time. It also calculates the service level for each monitor, ensuring you have actionable insights into your API’s reliability. 📈
 
 
-** Choose UptimeAPI, and take control of your API monitoring needs with a user-friendly and feature-rich solution. Start your free trial today! 🌐🆓 **
+** Choose UptimeAPI, and take control of your API monitoring needs with a user-friendly and feature-rich solution. Start your free trial today  (https://uptimeapicloud.com)! 🌐🆓 **
